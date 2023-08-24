@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.caja1 {
+    display: flex;
+
+}
+.imagen{
+        width: 200px;
+}
+.datos{
+    align-items: center;
+}
+
+
+
+.links{
+    width: 2%;
+}
